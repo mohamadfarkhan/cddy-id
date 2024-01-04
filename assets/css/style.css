@@ -534,7 +534,7 @@ h6 {
 #footer .footer-top .footer-newsletter form input[type=email] {
   border: 0;
   padding: 4px;
-  width: calc(100% - 110px);
+  width: calc(100% - 20px);
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit] {
